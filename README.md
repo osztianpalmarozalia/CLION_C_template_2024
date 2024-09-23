@@ -1,0 +1,1 @@
+# CLION_C_template_2024
